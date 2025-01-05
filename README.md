@@ -21,7 +21,7 @@ To install the **Ombre** theme for Visual Studio Code:
 Alternatively, you can install it via the command line with:
 
 ```bash
-ext install <your-extension-id>
+ext install Rlzee.ombre-dark-theme
 ```
 
 ## License
