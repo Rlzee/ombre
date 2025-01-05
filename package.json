@@ -1,6 +1,6 @@
 {
-  "name": "ombre",
-  "displayName": "Ombre",
+  "name": "ombre-dark-theme",
+  "displayName": "Ombre Dark Theme",
   "description": "Ombre is a visually comfortable dark theme for Visual Studio Code, designed with balanced colors and high readability.",
   "version": "1.0.0",
   "engines": {
@@ -18,6 +18,7 @@
       }
     ]
   },
+  "publisher": "Rlzee",
   "author": "RLZ",
   "license": "MIT",
   "repository": {
